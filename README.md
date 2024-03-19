@@ -3,7 +3,7 @@
 A facial recognition system combined with password hashing for login, and image encryption for facial authentication 
 
 At the following link you can view the presentation of the project in the Information Systems Security and Privacy exam and the Testing videos of our project.
-[Link Presentation Project](https://www.canva.com/design/DAF_l9OFXNk/K3iCAJdcFDLcDIHsEP_nGQ/edit?utm_content=DAF_l9OFXNk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link Presentation Project](https://www.canva.com/design/DAF_2Ut0Fuk/myb7aMiR7X2RX4GMqJR8yQ/edit?utm_content=DAF_2Ut0Fuk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Description of the Project
 The project is structured in 4 pages:
